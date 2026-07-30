@@ -1,18 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/mark-white.png">
-    <img src="docs/assets/mark-dark.png" alt="NeoX" width="88">
-  </picture>
+  <img src="docs/assets/mark.png" alt="Neox DevOps" width="120">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/neox-white.png">
-    <img src="docs/assets/neox-dark.png" alt="neox" width="180">
-  </picture>
+  <img src="docs/assets/wordmark.png" alt="Neox DevOps" width="320">
 </p>
-
-<h1 align="center">NeoX DevOps</h1>
 
 <p align="center">
   <strong>AI SRE for GitHub Actions, Docker, and cloud ops.</strong><br>
@@ -25,8 +17,6 @@
 
 <p align="center">
   <a href="https://neox-dev.com">Website</a> ·
-  <a href="https://neox-dev.com/download">Download</a> ·
-  <a href="https://neox-dev.com/docs">Docs</a> ·
   <a href="https://github.com/neoxlabs/neox">NeoX</a> ·
   <a href="mailto:support@neox-dev.com">Contact</a>
 </p>
