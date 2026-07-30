@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/assets/wordmark.png" alt="Neox DevOps" width="320">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/wordmark-dark.png">
+    <img src="docs/assets/wordmark-light.png" alt="Neox DevOps" width="360">
+  </picture>
 </p>
 
 <p align="center">
