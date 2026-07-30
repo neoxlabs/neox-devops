@@ -1,19 +1,37 @@
-# NeoX DevOps
-
-**AI SRE agent** — perceive · decide · remediate · verify.
-
-Traditional monitoring shows charts and pages a human. NeoX DevOps closes the loop: live signals feed a model that investigates, acts through controlled tools (SSH, containers, gateways), then verifies recovery.
-
-```text
-Classic ops:   collect → alert → human fixes
-NeoX DevOps:   sense → reason → act → verify → learn
-```
-
-<p>
-  <a href="https://neox-dev.com"><img src="https://img.shields.io/badge/Website-neox--dev.com-111827?style=flat-square" alt="Website" /></a>
-  <a href="https://github.com/neoxlabs/neox"><img src="https://img.shields.io/badge/Built%20on-NeoX%20SDK-0ea5e9?style=flat-square" alt="NeoX SDK" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-6b7280?style=flat-square" alt="License" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/mark-white.png">
+    <img src="docs/assets/mark-dark.png" alt="NeoX" width="88">
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/neox-white.png">
+    <img src="docs/assets/neox-dark.png" alt="neox" width="180">
+  </picture>
+</p>
+
+<h1 align="center">NeoX DevOps</h1>
+
+<p align="center">
+  <strong>AI SRE for GitHub Actions, Docker, and cloud ops.</strong><br>
+  面向 GitHub Actions、Docker 与云运维的 AI SRE。
+</p>
+
+<p align="center">
+  <a href="https://github.com/neoxlabs/neox-devops/stargazers"><img src="https://img.shields.io/github/stars/neoxlabs/neox-devops?style=social" alt="GitHub stars"></a>
+</p>
+
+<p align="center">
+  <a href="https://neox-dev.com">Website</a> ·
+  <a href="https://neox-dev.com/download">Download</a> ·
+  <a href="https://neox-dev.com/docs">Docs</a> ·
+  <a href="https://github.com/neoxlabs/neox">NeoX</a> ·
+  <a href="mailto:support@neox-dev.com">Contact</a>
+</p>
+
+---
 
 ## Capabilities
 
