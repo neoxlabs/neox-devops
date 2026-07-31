@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="docs/assets/mark.png" alt="Neox DevOps" width="120">
+  <a href="https://github.com/neoxlabs/neox"><img src="docs/assets/mark.png" alt="Neox DevOps" width="120"></a>
 </p>
 
 <p align="center">
-  <picture>
+  <a href="https://github.com/neoxlabs/neox"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/wordmark-dark.png">
     <img src="docs/assets/wordmark-light.png" alt="Neox DevOps" width="360">
-  </picture>
+  </picture></a>
 </p>
 
 <p align="center">
